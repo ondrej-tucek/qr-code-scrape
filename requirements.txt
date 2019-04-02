@@ -1,0 +1,5 @@
+lxml==4.3.3
+pipetools==0.3.4
+robobrowser==0.5.3
+jsonschema==2.6.0
+beautifulsoup4==4.7.1

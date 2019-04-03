@@ -22,6 +22,6 @@ python scrap_qr_code.py
 
 ## TODO
 - [x] downloading and saving is done for one version
-- [ ] download all version (ECC) for particular function patterns
-- [ ] download all version (ECC) for format and version information
+- [x] download all version (ECC) for particular function patterns
+- [x] download all version (ECC) for format and version information
 - [ ] download all version (ECC) for mask patterns

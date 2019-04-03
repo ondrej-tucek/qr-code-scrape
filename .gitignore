@@ -1,3 +1,6 @@
+.vscode
+downloaded
+
 __pycache__/
 *.py[cod]
 *$py.class

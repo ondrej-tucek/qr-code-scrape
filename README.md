@@ -5,20 +5,17 @@ The qr codes are downloaded from [smiley.codes](https://smiley.codes/qrcode) and
 
 ## Usage
 Install requirements
-
-(Python 2)
-```
-pip install -r requirements.txt
-```
-or (Python 3)
 ```
 pip3 install -r requirements.txt
 ```
 
 and run
 ```
-python scrap_qr_code.py
+python3 scrap_qr_code.py
 ```
+> `python3 -V`
+>
+> `# Python 3.6.7`
 
 ## TODO
 - [x] downloading and saving is done for one version
